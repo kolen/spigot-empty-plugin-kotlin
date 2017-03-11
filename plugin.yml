@@ -1,0 +1,4 @@
+name: Test plugin
+version: 1.0
+author: lalka
+main: org.lolka.test_plugin.TestPlugin
